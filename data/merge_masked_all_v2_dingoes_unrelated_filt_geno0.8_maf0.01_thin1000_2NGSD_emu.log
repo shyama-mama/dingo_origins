@@ -1,0 +1,15 @@
+EMU v1.01
+Time: 24/02/2026 19:45:19
+Directory: /hpcfs/users/a1880987/projects/dingo/masked_dingo/emu
+Options:
+	--bfile merge_masked_all_v2_dingoes_unrelated_filt_geno0.8_maf0.01_thin1000_2NGSD
+	--n_eig 10
+	--threads 64
+	--maf 0.01
+	--out merge_masked_all_v2_dingoes_unrelated_filt_geno0.8_maf0.01_thin1000_2NGSD_emu
+	--iter 1000
+
+EM-PCA converged in 284 iterations.
+Total elapsed time: 16m15s
+Saved eigenvector(s) as merge_masked_all_v2_dingoes_unrelated_filt_geno0.8_maf0.01_thin1000_2NGSD_emu.eigenvecs
+Saved eigenvalue(s) as merge_masked_all_v2_dingoes_unrelated_filt_geno0.8_maf0.01_thin1000_2NGSD_emu.eigenvals
